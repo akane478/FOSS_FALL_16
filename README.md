@@ -1,4 +1,3 @@
-# FOSS_FALL_16
 This repository includes my Python programs Hello_World.py and Numbers.py. To run them through the terminal, simply input these lines 
 
 python3 Hello_world.py 
